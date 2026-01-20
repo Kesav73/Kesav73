@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=RAG+Systems+%7C+Agents+%7C+LLMs;From+Idea+to+Deployment" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavpatneedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesav-patneedi-b804932a9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kesavpatneedi@gmail.com)
 
 </div>
@@ -40,7 +40,7 @@ What I build:
 ### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/kesavpatneedi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kesavpatneedi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavpatneedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesav-patneedi-b804932a9/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kesavpatneedi&color=6366f1&style=flat-square)
 
