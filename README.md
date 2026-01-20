@@ -35,20 +35,6 @@ What I build:
 
 **Tools:** AWS (Bedrock, SageMaker), Docker, Git, MongoDB
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kesav73&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav73&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect
